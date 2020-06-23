@@ -9,7 +9,7 @@ This helps to understand the data -Region, income, interest rate...e.t.c How the
 This responsible for data preprocessing and applying logistics Regression to build a score card.
 
 ## 3. Model 2 - RandomForest1.ipynb
-This responsible for the 2nd model - RandomForest, using random forest to outputfeature importances and reduce random noise.
+This responsible for the 2nd model - RandomForest, using random forest to output feature importances, to reduce random noise.
 
 ## Present.odp
 A summary/ presentation of above.
