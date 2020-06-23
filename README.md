@@ -1,6 +1,6 @@
 # Credit-Risk-Modelling
 
-The purpose of this is to compara Logistics and Random Forest prefermance in Credit Score Modelling.
+The purpose of this is to compara Logistics and Random Forest prefermance in Credit Score Modelling. Input Data and summary report will not be provided on this occasion. 
 
 ## 2. PreProcessing&LogisticsRegression.ipynb
 This responsibles for Weight of Edvience and Information Value are used for data preprocessing, and applying logistics Regression to build a score card.
