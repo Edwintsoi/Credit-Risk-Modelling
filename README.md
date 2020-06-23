@@ -8,5 +8,4 @@ This responsible for Weight of Edvience and Information Value are used for data 
 ## 3. Model 2 - RandomForest1.ipynb
 This responsible for the 2nd model - RandomForest, using random forest to output feature importances, to reduce random noise.
 
-## Present.odp
-A summary/ presentation of above.
+
